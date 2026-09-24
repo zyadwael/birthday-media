@@ -3,21 +3,33 @@
   "name": "Ranon",
   "quiz": [
     {
-      "question": "استبدل هذا السؤال من لوحة التحكم",
-      "options": ["خيار 1", "خيار 2", "خيار 3"],
+      "question": "test",
+      "options": [
+        "1",
+        "1",
+        "1"
+      ],
       "correctIndex": 0
     }
   ],
   "memories": [
-    { "path": "media/ranon/photo-1790254015848-1.jpeg", "dateLabel": "" },
-    { "path": "media/ranon/photo-1790254018100-2.jpeg", "dateLabel": "" },
-    { "path": "media/ranon/photo-1790254020659-3.jpeg", "dateLabel": "" },
-    { "path": "media/ranon/photo-1790254022913-4.jpeg", "dateLabel": "" }
+    {
+      "path": "media/ranon/photo-1790254015848-1.jpeg",
+      "dateLabel": ""
+    },
+    {
+      "path": "media/ranon/photo-1790254018100-2.jpeg",
+      "dateLabel": ""
+    },
+    {
+      "path": "media/ranon/photo-1790254020659-3.jpeg",
+      "dateLabel": ""
+    },
+    {
+      "path": "media/ranon/photo-1790254022913-4.jpeg",
+      "dateLabel": ""
+    }
   ],
-  "letterAr": "",
-  "letterEn": "",
-  "signatureEn": "",
-  "signatureAr": "",
   "createdAt": "2026-09-24T00:00:00.000Z",
-  "updatedAt": "2026-09-24T00:00:00.000Z"
+  "updatedAt": "2026-09-24T13:23:30.791Z"
 }
