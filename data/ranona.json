@@ -1,0 +1,51 @@
+{
+  "slug": "ranona",
+  "name": "Ranona",
+  "quiz": [
+    {
+      "question": "بتحبي ايه اكتر",
+      "options": [
+        "قطك العجل",
+        "الشاورما",
+        "انا"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "لما بضيعلك حاجتك",
+      "options": [
+        "بتتعصبي",
+        "بتقوليلي فداكي",
+        "بتدوري عليها وانتي ساكته"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "memories": [
+    {
+      "path": "media/ranona/photo-1790597736006-1.jpeg",
+      "dateLabel": "10/10/2018♥️"
+    },
+    {
+      "path": "media/ranona/photo-1790597739072-2.jpeg",
+      "dateLabel": "10/7/2026♥️"
+    },
+    {
+      "path": "media/ranona/photo-1790597741836-3.jpeg",
+      "dateLabel": "8/7/2025♥️"
+    },
+    {
+      "path": "media/ranona/photo-1790597745113-4.jpeg",
+      "dateLabel": "2020♥️"
+    }
+  ],
+  "createdAt": "2026-09-28T12:15:36.006Z",
+  "updatedAt": "2026-09-28T12:15:36.006Z",
+  "letterEyebrow": "من اعماق قلبي",
+  "letterName": "لرنونه روح قلبي🫶🏻",
+  "letterAr": "لصديقة عمري وأجمل حاجة كسبتها في حياتي ❤️\nمش عارفة أقولك قد إيه وجودك في حياتي فرق معايا، وقد إيه أنا ممتنة لكل لحظة وكل ذكرى جمعتنا سوا.\nإنتِ مش مجرد صاحبتي، إنتِ أختي وسندي والحد اللي دايمًا بحس معاه إني على طبيعتي ومن غير أي تكلّف.\nيارب نفضل دايمًا مع بعض، ونشوف بعض بنحقق كل اللي نفسنا فيه، ونفضل نحكي لبعض كل تفاصيل حياتنا حتى لو عدّى بينا العمر كله.\nبحبك أوي، وربنا يخليكي ليا العمر كله يا أحن وأجمل اخت❤️🥹",
+  "letterEn": "To my best friend and one of the most beautiful people in my life ❤️\n\nI honestly don’t know how to put into words how much your presence means to me. I’m so grateful for every memory, every laugh, every conversation, and every moment we’ve shared together.\n\nYou’re not just my best friend, you’re my sister, my safe place, and the person I can always be completely myself around.\n\nI hope we always stay this close, grow together, achieve everything we dream of, and keep sharing every little detail of our lives no matter how much time passes.\n\nI love you so much, and I’m truly lucky to have you in my life. ❤️🥹",
+  "signatureEn": "Your Love",
+  "signatureAr": "Nour",
+  "videoPath": "media/ranona/video-1790597749516.mov"
+}
