@@ -1,35 +1,51 @@
 {
   "slug": "ranon",
-  "name": "Ranon",
+  "name": "Rana",
   "quiz": [
     {
-      "question": "test",
+      "question": "بتحبي ايه اكتر",
       "options": [
-        "1",
-        "1",
-        "1"
+        "قطك العجل",
+        "الشاورما",
+        "انا"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
+    },
+    {
+      "question": "لما بضيعلك حاجاتك",
+      "options": [
+        "بتقوليلي فداكي",
+        "بتزعقي",
+        "بتدوري عليها"
+      ],
+      "correctIndex": 1
     }
   ],
   "memories": [
     {
-      "path": "media/ranon/photo-1790254015848-1.jpeg",
-      "dateLabel": ""
+      "path": "media/ranon/photo-1790585274077-1.jpeg",
+      "dateLabel": "15/9/2026"
     },
     {
-      "path": "media/ranon/photo-1790254018100-2.jpeg",
-      "dateLabel": ""
+      "path": "media/ranon/photo-1790585276661-2.jpeg",
+      "dateLabel": "23/4/2025"
     },
     {
-      "path": "media/ranon/photo-1790254020659-3.jpeg",
-      "dateLabel": ""
+      "path": "media/ranon/photo-1790585279017-3.jpeg",
+      "dateLabel": "11/11/2024"
     },
     {
-      "path": "media/ranon/photo-1790254022913-4.jpeg",
-      "dateLabel": ""
+      "path": "media/ranon/photo-1790585281865-4.jpeg",
+      "dateLabel": "11/11/2018"
     }
   ],
-  "createdAt": "2026-09-24T00:00:00.000Z",
-  "updatedAt": "2026-09-24T13:23:30.791Z"
+  "createdAt": "2026-09-28T08:47:54.077Z",
+  "updatedAt": "2026-09-28T08:47:54.077Z",
+  "letterEyebrow": "من اعماق قلبي",
+  "letterName": "لروح قلبي رنون",
+  "letterAr": "لصديقة عمري وأجمل حاجة كسبتها في حياتي ❤️\nمش عارفة أقولك قد إيه وجودك في حياتي فرق معايا، وقد إيه أنا ممتنة لكل لحظة وكل ذكرى جمعتنا سوا.\nإنتِ مش مجرد صاحبتي، إنتِ أختي وسندي والحد اللي دايمًا بحس معاه إني على طبيعتي ومن غير أي تكلّف.\nيارب نفضل دايمًا مع بعض، ونشوف بعض بنحقق كل اللي نفسنا فيه، ونفضل نحكي لبعض كل تفاصيل حياتنا حتى لو عدّى بينا العمر كله.\nبحبك أوي، وربنا يخليكي ليا العمر كله يا أحن وأجمل صديقة ❤️🥹",
+  "letterEn": "To my best friend and one of the most beautiful people in my life ❤️\n\nI honestly don’t know how to put into words how much your presence means to me. I’m so grateful for every memory, every laugh, every conversation, and every moment we’ve shared together.\n\nYou’re not just my best friend, you’re my sister, my safe place, and the person I can always be completely myself around.\n\nI hope we always stay this close, grow together, achieve everything we dream of, and keep sharing every little detail of our lives no matter how much time passes.\n\nI love you so much, and I’m truly lucky to have you in my life. ❤️🥹",
+  "signatureEn": "Your Love",
+  "signatureAr": "Nour",
+  "videoPath": "media/ranon/video-1790585285042.mov"
 }
