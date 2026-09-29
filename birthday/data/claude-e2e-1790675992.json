@@ -1,0 +1,22 @@
+{
+  "name": "Claude E2E",
+  "quiz": [
+    {
+      "question": "Is this a test?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "memories": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/zyadwael/birthday-media@main/birthday/media/claude-e2e-1790675992/photo-1-test-photo.png",
+      "dateLabel": ""
+    }
+  ],
+  "slug": "claude-e2e-1790675992",
+  "event_type": "birthday",
+  "published_at": "2026-09-29T10:23:30.882158Z"
+}
