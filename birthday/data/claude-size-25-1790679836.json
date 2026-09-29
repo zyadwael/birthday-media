@@ -1,0 +1,16 @@
+{
+  "name": "probe",
+  "quiz": [
+    {
+      "question": "?",
+      "options": [
+        "a",
+        "b"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "slug": "claude-size-25-1790679836",
+  "event_type": "birthday",
+  "published_at": "2026-09-29T11:04:13.270166Z"
+}
