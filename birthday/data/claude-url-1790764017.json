@@ -1,0 +1,16 @@
+{
+  "name": "x",
+  "quiz": [
+    {
+      "question": "?",
+      "options": [
+        "a",
+        "b"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "slug": "claude-url-1790764017",
+  "event_type": "birthday",
+  "published_at": "2026-09-30T10:27:01.980650Z"
+}
