@@ -1,0 +1,29 @@
+{
+  "slug": "yamen",
+  "event_type": "birthday",
+  "name": "Yamen",
+  "quiz": [
+    {
+      "question": "Who is your favorite person",
+      "options": [
+        "Me",
+        "Any",
+        "Any"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "memories": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/zyadwael/birthday-media@main/birthday/media/yamen/photo-1-1000304538.jpg",
+      "dateLabel": ""
+    }
+  ],
+  "letterAr": "لتينبتشتت",
+  "letterEn": "Dhsjdhdjjj",
+  "signatureEn": "",
+  "signatureAr": "",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/zyadwael/birthday-media@main/birthday/media/yamen/video-e52db7c3-b41b-45b9-9fd8-45be140f5f60-1_all_5880.mp4",
+  "musicUrl": "",
+  "published_at": "2026-10-03T08:14:31.152511Z"
+}
