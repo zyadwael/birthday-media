@@ -1,0 +1,16 @@
+{
+  "name": "x",
+  "quiz": [
+    {
+      "question": "?",
+      "options": [
+        "a",
+        "b"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "slug": "claude-probe-60-1791033835",
+  "event_type": "birthday",
+  "published_at": "2026-10-03T13:24:44.167658Z"
+}
